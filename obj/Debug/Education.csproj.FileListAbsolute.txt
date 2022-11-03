@@ -1,0 +1,15 @@
+C:\Users\Maryam\Source\Repos\Education\obj\Debug\Education.csproj.AssemblyReference.cache
+C:\Users\Maryam\Source\Repos\Education\obj\Debug\Education.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maryam\Source\Repos\Education\obj\Debug\Education.Students.resources
+C:\Users\Maryam\Source\Repos\Education\obj\Debug\Education.Properties.Resources.resources
+C:\Users\Maryam\Source\Repos\Education\obj\Debug\Education.csproj.GenerateResource.cache
+C:\Users\Maryam\Source\Repos\Education\obj\Debug\Education.csproj.CoreCompileInputs.cache
+C:\Users\Maryam\Source\Repos\Education\bin\Debug\Education.exe.config
+C:\Users\Maryam\Source\Repos\Education\bin\Debug\Education.exe
+C:\Users\Maryam\Source\Repos\Education\bin\Debug\Education.pdb
+C:\Users\Maryam\Source\Repos\Education\obj\Debug\Education.exe
+C:\Users\Maryam\Source\Repos\Education\obj\Debug\Education.pdb
+C:\Users\Maryam\Source\Repos\Education\obj\Debug\Education.Menu.resources
+C:\Users\Maryam\Source\Repos\Education\obj\Debug\Education.Subjects.resources
+C:\Users\Maryam\Source\Repos\Education\obj\Debug\Education.Uspev.resources
+C:\Users\Maryam\Source\Repos\Education\obj\Debug\Education.StudentsTable.resources
